@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/zuhakhalid
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zuha-khalid-au3.github.io
+  * I am zuhakhalid (https://keybase.io/zuhakhalid) on keybase.
+  * I have a public key ASCwFNz7qPm2fz8nkEZP8Wfx2mc3yMtb51jCSE9M4MlXaQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b014dcfba8f9b67f3f2790464ff167f1da6737c8cb5be758c2484f4ce0c957690a",
+      "host": "keybase.io",
+      "kid": "0120b014dcfba8f9b67f3f2790464ff167f1da6737c8cb5be758c2484f4ce0c957690a",
+      "uid": "77b8cbeb3c38562b6936cb76b9faab19",
+      "username": "zuhakhalid"
+    },
+    "merkle_root": {
+      "ctime": 1598870217,
+      "hash": "2eb010c52484d47765b6c0d4cfee8a6cf31596aa6a249927feed9c0ca0fafc018b2a4ce848429e0039c3b163c19c71bcc7904c8f2fa540a04474830586a1a5f7",
+      "hash_meta": "59ceb0e1d983c1ef19a00a8de4e84408826b3b0a6a3f25aeb947553a5ec49b02",
+      "seqno": 17431803
+    },
+    "service": {
+      "entropy": "yB/ify5ngnxM19DgtjxIhaO3",
+      "hostname": "zuha-khalid-au3.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1598870286,
+  "expire_in": 504576000,
+  "prev": "33e134b8f64afbb1f7b4618a0e99dc4a7c679e7476f776eceae1277cd7cb8d56",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsBTc+6j5tn8/J5BGT/Fn8dpnN8jLW+dYwkhPTODJV2kKp3BheWxvYWTESpcCB8QgM+E0uPZK+7H3tGGKDpncSnxnnnR293bs6uEnfNfLjVbEIPSHSvfXt+4fE8/GWXPTfbrGpNtZYfNqx9D+oTtEOMBtAgHCo3NpZ8RARk2EtQx/CCcVhrSuVE6YYV4K2vsutJ1ulyelwF/vZPTZh23HD7r5Z2tyKDmGFRozRqFrJhB5SfaSWXMpVyIDBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBSnsV4t5UQk7FrcJ2ipE0pVkc2u/s3T3iRDbJZ/tFL5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zuhakhalid
+
+==================================================================
